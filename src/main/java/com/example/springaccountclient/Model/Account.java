@@ -6,7 +6,7 @@ public class Account {
     public Account() {
     }
 
-    public Account(int sum, int id) {
+    public Account(int id, int sum) {
         this.sum = sum;
         this.id = id;
     }
